@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 Just a passionate developer.
-I have good experience in Ethereum blockchain and full stack development. Have worked on the following:
+I have good experience in Web development such as Front-end and Back-end.
 
 1. Frontend development with React,Redxu,Vue.js, Tailwind CSS, JavaScript, TypeScript
 2. Backend development with Express(Node.js), Laravel(PHP),Next.js
