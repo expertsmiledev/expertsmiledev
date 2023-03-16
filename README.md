@@ -16,7 +16,6 @@ Through knowledge in SQL and Databases concepts
 Good expertise in the usage of data interchange formats like JSON and XML
 IT specialist well-versed in troubleshooting and repairing malfunctioning hardware and software
 Quick learner and professional in solving the technical issues in the project
-My skills
 
 Front-end Development
 HTML5, CSS3(SCSS/SASS/LESS)
