@@ -34,7 +34,7 @@ Enzyme
 Mocha
 
 Back-end Development
-Node.js, Express.js, NestJs, FastAPI, Laravel
+Node.js, Express.js, NestJs, Django, Ruby on Rails,FastAPI, Laravel, 
 Firebase, AWS, Heroku,
 Smart Contract Development -Solidity/Rust -Hardhat/Foundry -openzeppelin, ERC20, ERC721, ERC721A, ERC1155, ERC2535 and so on. -Mocha, Chai, Unit Test with Hardhat test and Foundry forge test
 
